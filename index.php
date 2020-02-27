@@ -1,5 +1,5 @@
 <?php
-include 'includes/db.php';
+require 'includes/db.php';
 
 //query
 
